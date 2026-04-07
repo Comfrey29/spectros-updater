@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-04-06",
   "changelog": "Versió inicial de SpectrOS Apps:\n- spectros-config\n- spectros-filemanager\n- spectros-shop\n- spectros-updater",
   "download_url": "https://github.com/Comfrey29/spectros-updater/releases/latest"
